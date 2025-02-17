@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\BookStore-Winform\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|D:\\Programming\\BookStore-Winform\\BookStore\\bookstore\\admin\\usercontroladminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\admin\\usercontroladminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\admin\\usercontroladminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\admin\\usercontroladminhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\admin\\usercontroladdcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\admin\\usercontroladdcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\admin\\usercontroladminhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\admin\\usercontroladminhome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\data\\qlbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\data\\qlbscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\data\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\data\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|D:\\Programming\\BookStore-Winform\\BookStore\\bookstore\\staff\\usercontrolstaffhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\staff\\usercontrolstaffhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|D:\\Programming\\BookStore-Winform\\BookStore\\bookstore\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|D:\\Programming\\BookStore-Winform\\BookStore\\bookstore\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\admin\\usercontroladdcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\admin\\usercontroladdcustomer.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|D:\\Programming\\BookStore-Winform\\BookStore\\bookstore\\admin\\usercontroladdcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\admin\\usercontroladdcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\mainforms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\data\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|d:\\programming\\bookstore-winform\\bookstore\\bookstore\\mainforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC4323F-263F-4A13-9F51-8D366AC6F977}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\mainforms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Program.cs",
+              "RelativeDocumentMoniker": "BookStore\\Program.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Program.cs",
+              "RelativeToolTip": "BookStore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T11:45:54.56Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Authentication.cs",
+              "RelativeDocumentMoniker": "BookStore\\Authentication.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Authentication.cs",
+              "RelativeToolTip": "BookStore\\Authentication.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:10:59.79Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlAdminHome.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAdminHome.cs",
+              "RelativeDocumentMoniker": "BookStore\\Admin\\UserControlAdminHome.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAdminHome.cs",
+              "RelativeToolTip": "BookStore\\Admin\\UserControlAdminHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:39:28.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlAdminHome.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAdminHome.cs",
+              "RelativeDocumentMoniker": "BookStore\\Admin\\UserControlAdminHome.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAdminHome.cs [Design]",
+              "RelativeToolTip": "BookStore\\Admin\\UserControlAdminHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:12:47.81Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\DTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "BookStore\\DTO\\CustomerDTO.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\DTO\\CustomerDTO.cs",
+              "RelativeToolTip": "BookStore\\DTO\\CustomerDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:27:24.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Data\\Customer.cs",
+              "RelativeDocumentMoniker": "BookStore\\Data\\Customer.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Data\\Customer.cs",
+              "RelativeToolTip": "BookStore\\Data\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:26:35.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControlAddCustomer.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAddCustomer.cs",
+              "RelativeDocumentMoniker": "BookStore\\Admin\\UserControlAddCustomer.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAddCustomer.cs",
+              "RelativeToolTip": "BookStore\\Admin\\UserControlAddCustomer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:31:00.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControlAdminHome.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAdminHome.Designer.cs",
+              "RelativeDocumentMoniker": "BookStore\\Admin\\UserControlAdminHome.Designer.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAdminHome.Designer.cs",
+              "RelativeToolTip": "BookStore\\Admin\\UserControlAdminHome.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:43:18.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QlbsContext.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Data\\QlbsContext.cs",
+              "RelativeDocumentMoniker": "BookStore\\Data\\QlbsContext.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Data\\QlbsContext.cs",
+              "RelativeToolTip": "BookStore\\Data\\QlbsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:09:37.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Data\\Supplier.cs",
+              "RelativeDocumentMoniker": "BookStore\\Data\\Supplier.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Data\\Supplier.cs",
+              "RelativeToolTip": "BookStore\\Data\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:43:15.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControlAddCustomer.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAddCustomer.Designer.cs",
+              "RelativeDocumentMoniker": "BookStore\\Admin\\UserControlAddCustomer.Designer.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAddCustomer.Designer.cs",
+              "RelativeToolTip": "BookStore\\Admin\\UserControlAddCustomer.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:40:12.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForms.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\MainForms.cs",
+              "RelativeDocumentMoniker": "BookStore\\MainForms.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\MainForms.cs",
+              "RelativeToolTip": "BookStore\\MainForms.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:26:17.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Data\\Employee.cs",
+              "RelativeDocumentMoniker": "BookStore\\Data\\Employee.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Data\\Employee.cs",
+              "RelativeToolTip": "BookStore\\Data\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:27:34.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Data\\Category.cs",
+              "RelativeDocumentMoniker": "BookStore\\Data\\Category.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Data\\Category.cs",
+              "RelativeToolTip": "BookStore\\Data\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:26:26.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForms.Designer.cs",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\MainForms.Designer.cs",
+              "RelativeDocumentMoniker": "BookStore\\MainForms.Designer.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\MainForms.Designer.cs",
+              "RelativeToolTip": "BookStore\\MainForms.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAWwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:35:57.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControlStaffHome.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Staff\\UserControlStaffHome.cs",
+              "RelativeDocumentMoniker": "BookStore\\Staff\\UserControlStaffHome.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Staff\\UserControlStaffHome.cs [Design]",
+              "RelativeToolTip": "BookStore\\Staff\\UserControlStaffHome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:43:09.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Authentication.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Authentication.cs",
+              "RelativeDocumentMoniker": "BookStore\\Authentication.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Authentication.cs [Design]",
+              "RelativeToolTip": "BookStore\\Authentication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:10:51.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainForms.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\MainForms.cs",
+              "RelativeDocumentMoniker": "BookStore\\MainForms.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\MainForms.cs [Design]",
+              "RelativeToolTip": "BookStore\\MainForms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:36:17.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserControlAddCustomer.cs [Design]",
+              "DocumentMoniker": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAddCustomer.cs",
+              "RelativeDocumentMoniker": "BookStore\\Admin\\UserControlAddCustomer.cs",
+              "ToolTip": "D:\\Programming\\BookStore-Winform\\BookStore\\BookStore\\Admin\\UserControlAddCustomer.cs [Design]",
+              "RelativeToolTip": "BookStore\\Admin\\UserControlAddCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T12:12:45.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
